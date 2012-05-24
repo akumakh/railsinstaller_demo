@@ -1,0 +1,13 @@
+1337827025
+Application	C:/Sites/railsinstaller_demo/config/application.rb	  class Application 
+ApplicationController	C:/Sites/railsinstaller_demo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/railsinstaller_demo/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/railsinstaller_demo/test/performance/browsing_test.rb	class BrowsingTest 
+InitialPageController	C:/Sites/railsinstaller_demo/app/controllers/initial_page_controller.rb	class InitialPageController 
+InitialPageControllerTest	C:/Sites/railsinstaller_demo/test/functional/initial_page_controller_test.rb	class InitialPageControllerTest 
+InitialPageHelper	C:/Sites/railsinstaller_demo/app/helpers/initial_page_helper.rb	module InitialPageHelper
+InitialPageHelperTest	C:/Sites/railsinstaller_demo/test/unit/helpers/initial_page_helper_test.rb	class InitialPageHelperTest 
+RailsinstallerDemo	C:/Sites/railsinstaller_demo/config/application.rb	module RailsinstallerDemo
+TestCase	C:/Sites/railsinstaller_demo/test/test_helper.rb	class ActiveSupport::TestCase
+index	C:/Sites/railsinstaller_demo/app/controllers/initial_page_controller.rb	  def index
+test_homepage	C:/Sites/railsinstaller_demo/test/performance/browsing_test.rb	  def test_homepage
